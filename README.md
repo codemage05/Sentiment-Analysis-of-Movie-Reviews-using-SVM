@@ -349,7 +349,7 @@ of this software and associated documentation files (the "Software")...
 **Dudekula Riyaz**
 
 - 📧 Email: riyazdudekula2005@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/](https://www.linkedin.com/in/riyaz-dudekula-b7aaa52b7/))
+- 💼 LinkedIn: [linkedin.com/in/Dudekula riyaz](https://linkedin.com/in/](https://www.linkedin.com/in/riyaz-dudekula-b7aaa52b7/))
 - 🐙 GitHub: [@codemage05](https://github.com/codemage05)
 
 **Project Repository**: [github.com/codemage05/sentiment-analysis-svm](https://github.com/codemage05/sentiment-analysis-svm)
