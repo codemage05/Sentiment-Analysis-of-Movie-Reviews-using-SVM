@@ -74,7 +74,7 @@ This project implements a complete **sentiment analysis pipeline** for movie rev
 
 ### Try It Live
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16bHc5drV-wTkA_KWaGM8aHypzXbfTXcL?usp=sharing))
 
 Click the badge above to run the complete project in Google Colab!
 
