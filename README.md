@@ -368,9 +368,9 @@ of this software and associated documentation files (the "Software")...
 
 ## 📊 Project Statistics
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/sentiment-analysis-svm)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/sentiment-analysis-svm?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/sentiment-analysis-svm?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codemage05/sentiment-analysis-svm)
+![GitHub stars](https://img.shields.io/github/stars/codemage05/sentiment-analysis-svm?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codemage05/sentiment-analysis-svm?style=social)
 
 ---
 
