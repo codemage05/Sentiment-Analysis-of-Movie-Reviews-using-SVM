@@ -1,0 +1,26 @@
+# Sentiment Analysis of Movie Reviews Using SVM
+# Requirements file for Python dependencies
+
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Natural Language Processing
+nltk>=3.6.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: For Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For datasets library (alternative data loading)
+# datasets>=2.0.0
+
+# Optional: For enhanced progress bars
+# tqdm>=4.62.0
